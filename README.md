@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/irfanlegends-projects/v0-propel-website-clone](https://vercel.com/irfanlegends-projects/v0-propel-website-clone)**
+**[https://vercel.com/irfanlegends-projects/v0-propel-website-clone](https://propel-workpace.vercel.app/)**
 
 ## Build your app
 
