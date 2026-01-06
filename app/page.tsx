@@ -38,7 +38,7 @@ export default function Page() {
 
           <div className="flex items-center gap-4 mb-4">
             <a
-              href="https://github.com/Irfanlegend/propel-website/releases/download/propel/Propel.exe"
+              href="https://github.com/Irfanlegend/propel.site/releases/download/propel/Propel.exe"
               className="bg-teal-600 hover:bg-teal-700 text-white rounded-lg px-6 py-6 text-base flex items-center gap-2 font-medium transition-colors"
             >
               <DownloadIcon className="h-5 w-5" />
